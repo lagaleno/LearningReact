@@ -34,10 +34,11 @@ const Search = () => {
         if(debouncedTerm) {
             search();
         }
-        
+
     }, [debouncedTerm])
 
     
+    //A questão do warning que aparece sobre results.length não estar listado nas depedências do useEffect
     // useEffect(() => {
     //     const search = async () => {
     //         const { data } = await axios.get('https://en.wikipedia.org/w/api.php', {
