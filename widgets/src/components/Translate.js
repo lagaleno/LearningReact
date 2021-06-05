@@ -41,7 +41,7 @@ const Translate = () => {
                 options={options} 
             />
 
-            <h3>Outpu</h3>
+            <h3>Output</h3>
             <Convert text={text} language={language} />
 
         </div>
