@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Video.css';
 
-//https://www.googleapis.com/youtube/v3/videos?id=ujf3iJoWgrM&part=contentDetails&key=AIzaSyDsPQ2VPe-635wJuEZ5O43Y5AXwarQngQY
+
 
 const Video = () => {
     // estado para dizer se o video acabou

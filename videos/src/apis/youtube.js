@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'AIzaSyDsPQ2VPe-635wJuEZ5O43Y5AXwarQngQY';
+const KEY = '';
 
 //https://developers.google.com/youtube/v3/docs/search/list?hl=pt-br
 
